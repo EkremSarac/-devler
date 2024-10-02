@@ -1,0 +1,25 @@
+.nav-bg{
+    background-color: rgb(33, 36, 41);
+}
+
+a{
+    color: rgb(155, 157, 158) !important;
+    margin-right: 10px;
+}
+
+i{
+    display: inline;
+    color: white;
+    background-color: rgb(45, 142, 227);
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.copyright-container{
+    background-color: rgb(33, 36, 41);
+}
+
+.nav-bg .nav-link:hover {
+    color: #fff !important;
+    transition: color 0.3s ease !important;
+}
